@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Info.plist
+   SubtitlesMaster
+
+   Created by Илья Филонов on 15.01.2025.
+   Copyright (c) 2025 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Приложению необходим доступ к галерее для сохранения экспортированных видео</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>Приложению необходим доступ к галерее для сохранения экспортированных видео</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Приложению необходим доступ к камере для записи видео</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Приложению требуется доступ к микрофону для анализа аудио</string>
+    <key>UIFileSharingEnabled</key>
+    <true/>
+    <key>LSSupportsOpeningDocumentsInPlace</key>
+    <true/>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>Приложению требуется доступ к распознаванию речи для создания субтитров</string>
+</dict>
+</plist>
